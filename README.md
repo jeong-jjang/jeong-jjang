@@ -37,6 +37,7 @@ I'm Jeong, a passionate service developer from South Korea.
 
 
 ## 🌱 Currently Learning
+- Prediction Model
 - LLM Serviece
 - Document level-Relation Extraction Model
 
