@@ -25,8 +25,7 @@ I'm Jeong, a passionate service developer from South Korea.
 
 ## 🛠️ Skills
 ### Tech Stack
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 - ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
