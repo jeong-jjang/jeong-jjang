@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 I'm Jeong, a passionate service developer from South Korea.
 
 ## 🏢 Work Experience
-- **한국타이어앤테크놀로지 DataAnalytics PJT팀** 연구원 (2024.01 - 현재)
-- **KAIST 데이터사이언스 대학원** (2022.03 - 2024.02)
-- **UNIST 인간공학과, 산업공학과** 학부 (2016.02 - 2022.03)
+- **Hankook Tire & Technology, DataAnalytics PJT.**, Researcher (2024.01 - present)
+- **M.S., KAIST, Graduate School of Data Science** (2022.03 - 2024.02)
+- **B.S., UNIST, Human Factors Engineering &  Industrial Engineering** (2016.02 - 2022.03)
 
 ## 🛠️ Skills
 ### Tech Stack
