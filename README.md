@@ -47,6 +47,6 @@ I'm Jeong, a passionate service developer from South Korea.
 
 
 ## 📫 How to reach me
-- Email: minji@example.com
+- Email: faiiry9@naver.com
 - [LinkedIn](https://www.linkedin.com/in/jeong-yeo-255b74254/)
 - [Blog](https://faiiry9.tistory.com)
