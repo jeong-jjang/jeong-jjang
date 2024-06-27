@@ -25,14 +25,10 @@ I'm Jeong, a passionate service developer from South Korea.
 
 ## 🛠️ Skills
 ### Tech Stack
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-- ![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
-- ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-black?style=flat-square&logo=amazon-aws)
-- ![SolidWorks](https://img.shields.io/badge/-SolidWorks-black?style=flat-square&logo=solidworks)
-- ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator)
+- ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-black?style=flat-square&logo=amazon-aws)
+- ![SolidWorks](https://img.shields.io/badge/-SolidWorks-black?style=flat-square&logo=solidworks) ![Illustrator](https://img.shields.io/badge/-Illustrator-black?style=flat-square&logo=adobe-illustrator)
 
 
 ## 🌱 Currently Learning
